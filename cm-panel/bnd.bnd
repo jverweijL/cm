@@ -1,0 +1,4 @@
+Bundle-Name: cm-panel
+Bundle-SymbolicName: cm.panel
+Bundle-Version: 1.0.0
+Export-Package: cm.panel.constants
